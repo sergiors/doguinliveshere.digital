@@ -1,0 +1,6 @@
+name = "divine-block-b88c"
+account_id = ""
+type = "webpack"
+route = 'doguinliveshere.digital/*'
+zone_id = ''
+workers_dev = true
