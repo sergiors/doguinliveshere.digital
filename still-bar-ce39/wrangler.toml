@@ -1,0 +1,10 @@
+name = "still-bar-ce39"
+type = "webpack"
+route = 'doguinliveshere.digital/ws'
+account_id = ""
+zone_id = ''
+workers_dev = true
+
+
+[dev]
+port = 9000

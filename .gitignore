@@ -1,0 +1,4 @@
+.serverless
+dist/
+worker/
+node_modules/

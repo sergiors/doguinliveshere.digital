@@ -1,6 +1,6 @@
 name = "divine-block-b88c"
-account_id = ""
 type = "webpack"
-route = 'doguinliveshere.digital/*'
+route = 'doguinliveshere.digital/'
+account_id = ""
 zone_id = ''
 workers_dev = true
