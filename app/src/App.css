@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply text-gray-700 antialiased min-h-full;
+  @apply bg-white;
+}
+
+a {
+  @apply text-blue-500 underline hover:no-underline;
+}
+
+.container {
+  @apply w-11/12 max-w-screen-xl mx-auto;
+}
